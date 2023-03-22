@@ -10,8 +10,8 @@ def user_login(client_id, client_secret,username,password,user_agent):
                          user_agent=user_agent)
     return reddit
     
-reddit = user_login('', 
-                    '',
-                    '',
-                    '',
+reddit = user_login('Dh9jkbjqVfypy4JtfOcGlw', 
+                    'GZIAAePsuJh5qWUTw2ESEE9Xg0VGtw',
+                    'csipapicsa',
+                    'cs1pap1csa1',
                     'put here your user agent')
