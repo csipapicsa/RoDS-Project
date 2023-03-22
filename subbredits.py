@@ -1,0 +1,2 @@
+subreddits = ["nba", "soccer", "hockey", "formula1", "baseball", "MMA", "technology", "Android", "BitCoin", "programming", "apple", "toronto", "australia", "lifehacks", "bicycling", "Fitness", "longboarding", "drunk", "Art", "todayilearned", "science", "space", "explainlikeimfive", "music", "movies", "geek", "gameofthrones", "breakingbad", "startrek", "futurama", "gaming", "leagueoflegends", "pokemon", "Minecraft", "zelda", "AskReddit", "TalesFromRetail", "battlefield3", "Fallout", "skyrim"]
+print(len(subreddits))
